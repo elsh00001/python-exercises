@@ -1,4 +1,4 @@
-# Python Exercises & Cybersecurity Portfolio
+# Python Exercises & Cybersecurity
 
 Practice exercises in Python — basics, algorithms, and cybersecurity.
 
